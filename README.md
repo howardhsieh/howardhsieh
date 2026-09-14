@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Howard 👋
 
-<!--
-**howardhsieh/howardhsieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security engineer focused on **cloud infrastructure security** and **AI agent security**.
+MS Cybersecurity Engineering @ USC (Jun 2027) · prev. Security Engineer @ Systex (Splunk SIEM, 15 enterprise clients).
 
-Here are some ideas to get you started:
+**What I've built / done**
+- 🔐 [`agent-policy-gateway`](https://github.com/howardhsieh/agent-policy-gateway) — reference-monitor gateway for AI agent tool calls: YAML policies + taint-tracking information-flow control that blocks indirect prompt-injection exfiltration. On PyPI, OIDC trusted publishing.
+- 🐤 [`llm-canary`](https://github.com/howardhsieh/llm-canary) — canary tokens for LLM contexts to catch prompt injection and context exfiltration.
+- ☁️ Interned on a security team building a zero-trust AWS platform: eliminated all public SSH across dev/prod (Tailscale subnet routers + ephemeral CI nodes), designed 12h JIT access to production, rolled out GuardDuty/Inspector/Prowler across a multi-account org.
+- 📄 Co-author, IEEE Access (2025): *TIRDH — reversible data hiding algorithm*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack**: Python · Bash · AWS · Terraform · Splunk SPL · GitHub Actions
+
+📫 [LinkedIn](https://linkedin.com/in/hung-mo-hsieh) · hungmohsieh@gmail.com
