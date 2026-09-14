@@ -31,6 +31,5 @@ MS Cybersecurity Engineering @ USC (Jun 2027) · prev. Security Engineer @ Syste
 ### 📊 GitHub
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=howardhsieh&show_icons=true&theme=graywhite&hide_border=true">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howardhsieh&layout=compact&theme=graywhite&hide_border=true">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=howardhsieh&theme=default&hide_border=true">
 </p>
