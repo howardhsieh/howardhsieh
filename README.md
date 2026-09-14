@@ -5,7 +5,7 @@ MS Cybersecurity Engineering @ USC (Jun 2027) · prev. Security Engineer @ Syste
 
 <p align="center">
   <a href="https://linkedin.com/in/hung-mo-hsieh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:hungmohsieh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://mail.google.com/mail/?view=cm&to=hungmohsieh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/hungmohsieh@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 ### 🛠️ Stack
