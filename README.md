@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Howard 👋</h2>
+<h2 align="center">Hi, I'm Howard</h2>
 
 <p align="center">Security engineer focused on <b>cloud infrastructure security</b> and <b>AI agent security</b>.<br>
 MS Cybersecurity Engineering @ USC (Jun 2027) · prev. Security Engineer @ Systex (Splunk SIEM, 15 enterprise clients)</p>
@@ -8,7 +8,7 @@ MS Cybersecurity Engineering @ USC (Jun 2027) · prev. Security Engineer @ Syste
   <a href="https://mail.google.com/mail/?view=cm&to=hungmohsieh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/hungmohsieh@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-### 🛠️ Stack
+### Stack
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -21,14 +21,15 @@ MS Cybersecurity Engineering @ USC (Jun 2027) · prev. Security Engineer @ Syste
   <img alt="Tailscale" src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white">
 </p>
 
-### 🔭 What I've built
+### What I've built
 
-- 🔐 [`agent-policy-gateway`](https://github.com/howardhsieh/agent-policy-gateway) — reference-monitor gateway for AI agent tool calls: YAML policies + taint-tracking information-flow control that blocks indirect prompt-injection exfiltration. On PyPI, OIDC trusted publishing.
-- 🐤 [`llm-canary`](https://github.com/howardhsieh/llm-canary) — canary tokens for LLM contexts to catch prompt injection and context exfiltration.
-- ☁️ Interned on a security team building a zero-trust AWS platform: eliminated all public SSH across dev/prod (Tailscale subnet routers + ephemeral CI nodes), designed 12h JIT access to production, rolled out GuardDuty/Inspector/Prowler across a multi-account org.
-- 📄 Co-author, IEEE Access (2025): *TIRDH — reversible data hiding algorithm*.
+- [`agent-policy-gateway`](https://github.com/howardhsieh/agent-policy-gateway) — reference-monitor gateway for AI agent tool calls: YAML policies + taint-tracking information-flow control that blocks indirect prompt-injection exfiltration. On PyPI, OIDC trusted publishing.
+- [`tracesig`](https://github.com/howardhsieh/tracesig) — Sigma-style detection rules for AI agent tool-call traces: open YAML rule format, reference engine, and a 12-rule starter pack covering prompt injection, exfiltration, privilege, and anomaly patterns. On PyPI.
+- [`llm-canary`](https://github.com/howardhsieh/llm-canary) — canary tokens for LLM contexts to catch prompt injection and context exfiltration.
+- Interned on a security team building a zero-trust AWS platform: eliminated all public SSH across dev/prod (Tailscale subnet routers + ephemeral CI nodes), designed 12h JIT access to production, rolled out GuardDuty/Inspector/Prowler across a multi-account org.
+- Co-author, IEEE Access (2025): *TIRDH — reversible data hiding algorithm*.
 
-### 📊 GitHub
+### GitHub
 
 <p align="center">
   <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=howardhsieh&theme=default&hide_border=true&disable_animations=true">
